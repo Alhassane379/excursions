@@ -23,14 +23,13 @@ body{
     font-size: 16px;
 }
 
-.head-2{
-    font-family: Verdana, Geneva, Tahoma, sans-serif;
-    font-weight: 300;
-    font-size: 42px;
-}
-
 .subhead-2{
     font-family: Verdana, Geneva, Tahoma, sans-serif;
     font-size: 21px;
+    color: gray;
+}
+
+.copyright{
+    text-align: right;
     color: gray;
 }
